@@ -1,0 +1,30 @@
+.main{
+    display: block;
+    margin: 10rem auto;
+    width: 350px;
+    margin-bottom: 2rem;
+}
+.firstrow,.secondrow,.thirdrow{
+    height: 100px;
+    display: flex;
+}
+.one,.two,.three,.four,.five,.six,.seven,.eight,.nine{
+    width: 116px;
+}
+.cross{
+    width: 60px;
+    display: block;
+    margin: 20px auto;
+}
+.winner,.draw{
+    font-size: 1.5rem;
+    text-align: center;
+}
+.reset{
+    display: block;
+    margin: 20px auto;
+    font-size: 1.2em;
+}
+h1{
+    text-align: center;
+}
